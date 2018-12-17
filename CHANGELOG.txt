@@ -1,0 +1,7 @@
+openprocurement..search_plugins (0.1b) unstable; urgency=low
+
+ * initial version
+
+ -- Volodymyr Flonts <flyonts@gmail.com>  Mon Dec 17 19:51:12 EET 2018
+
+
